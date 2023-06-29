@@ -1,0 +1,14 @@
+# Bitbucket repositories migrated
+- [x] Dotfiles
+- [x] Book-Scanner
+- [x] Software-installations
+- [x] General-Scraper
+- [x] Dila
+- [x] Branding
+- [x] Chapman
+- [x] Chapman-documentary
+- [x] R-on-proxy-server
+- [x] ISKM2017-Mobile-App
+- [x] R-by-proxy
+- [x] Setting-up-Github-proxy-server
+- [x] Bibliographical-database-migration
