@@ -12,3 +12,11 @@
 - [x] R-by-proxy
 - [x] Setting-up-Github-proxy-server
 - [x] Bibliographical-database-migration
+- [x] Documentation-migration-to-Read-the-docs-experimental-
+- [x] iskm2017
+- [x] Win-Isis migration
+- [x] Database-repositories
+- [x] Software-database-repository
+- [x] RSS-feeds-self-tracking-control-of-repositories-
+- [x] Virtualization-Winglyph
+
