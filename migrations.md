@@ -12,8 +12,8 @@
 | ✓ | R on proxy server | unknown | unknown |
 | ✓ | ISKM2107 Mobile App | unknown | unknown |
 | ✓ | Setting up Github proxy server | unknown | unknown |
+| ✓ | Documentation migration to `ReadTheDocs` experimental | unknown | ✓ 
 | ✓ | Bibliographical database migration | unknown | unknown |
-| ✓ | Documentation migration to Read the docs experimental | unknown | ✓ 
 | ✓ | iskm2017 | unknown | unknown 
 | ✓ | Win-Isis migration | unknown | unknown
 | ✓ | Database repositories | unknown | unknown
