@@ -2,7 +2,7 @@
 
 | Migrated | Name of repository | Master branch protection | Deprecated |
 |:--|:--|:-- |:-- | 
-| ✓ | Dotfiles | unknown |
+| ✓ | Dotfiles | unknown | unknown |
 | ✓ | Book Scanner | unknown | unknown |
 | ✓ | General Scraper | unknown | unknown |
 | ✓ | Dila | ✓ | unknown |
@@ -21,8 +21,8 @@
 | ✓ | RSS feeds self tracking control of repositories | unknown | unknown
 | ✓ | Virtualization Winglyph | unknown | unknown
 | ✓ | Streaming | unknown | unknown
-| ✓ |  AUVisual unknown | ✓ | no
-
+| ✓ |  AUVisual | ✓ | no
+| ✓ |  incunnabilia-early-book-digitization | ✓ | no
 
 
 
