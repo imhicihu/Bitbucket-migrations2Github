@@ -20,4 +20,5 @@
 - [x] RSS-feeds-self-tracking-control-of-repositories-
 - [x] Virtualization-Winglyph
 - [x] Streaming
+- [x] AUvisual
 
