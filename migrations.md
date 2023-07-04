@@ -1,24 +1,28 @@
 # Bitbucket repositories migrated
-- [x] Dotfiles
-- [x] Book-Scanner
-- [x] Software-installations
-- [x] General-Scraper
-- [x] Dila
-- [x] Branding
-- [x] Chapman
-- [x] Chapman-documentary
-- [x] R-on-proxy-server
-- [x] ISKM2017-Mobile-App
-- [x] R-by-proxy
-- [x] Setting-up-Github-proxy-server
-- [x] Bibliographical-database-migration
-- [x] Documentation-migration-to-Read-the-docs-experimental-
-- [x] iskm2017
-- [x] Win-Isis migration
-- [x] Database-repositories
-- [x] Software-database-repository
-- [x] RSS-feeds-self-tracking-control-of-repositories-
-- [x] Virtualization-Winglyph
-- [x] Streaming
-- [x] AUvisual
+
+| Migrated | Name of repository | Master branch protection | Deprecated |
+|:--|:--|:-- |
+| ✓ | Dotfiles | unknown |
+| ✓ | Book Scanner | unknown | unknown |
+| ✓ | General Scraper | unknown | unknown |
+| ✓ | Dila | ✓ | unknown |
+| ✓ | Branding | unknown | unknown |
+| ✓ | Chapman | unknown | unknown |
+| ✓ | Chapman documentary | unknown | unknown |
+| ✓ | R on proxy server | unknown | unknown |
+| ✓ | ISKM2107 Mobile App | unknown | unknown |
+| ✓ | Setting up Github proxy server | unknown | unknown |
+| ✓ | Bibliographical database migration | unknown | unknown |
+| ✓ | Documentation migration to Read the docs experimental | unknown | ✓ 
+| ✓ | iskm2017 | unknown | unknown 
+| ✓ | Win-Isis migration | unknown | unknown
+| ✓ | Database repositories | unknown | unknown
+| ✓ | Software database repository | unknown | unknown
+| ✓ | RSS feeds self tracking control of repositories | unknown | unknown
+| ✓ | Virtualization Winglyph | unknown | unknown
+| ✓ | Streaming | unknown | unknown
+| ✓ |  AUVisual unknown | ✓ | no
+
+
+
 
