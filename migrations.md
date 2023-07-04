@@ -1,7 +1,7 @@
 # Bitbucket repositories migrated
 
 | Migrated | Name of repository | Master branch protection | Deprecated |
-|:--|:--|:-- |
+|:--|:--|:-- |:-- | 
 | ✓ | Dotfiles | unknown |
 | ✓ | Book Scanner | unknown | unknown |
 | ✓ | General Scraper | unknown | unknown |
