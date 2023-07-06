@@ -12,7 +12,7 @@
 | ✓ | Dila | ✓ | unknown | No |
 | ✓ | Database repositories | unknown | unknown |No |
 | ✓ | Documentation migration to `ReadTheDocs` experimental | unknown | ✓  |No |
-| ✓ | Dotfiles | unknown | unknown | No |
+| ✓ | Dotfiles | ✓ | No | No |
 | ✓ | General Scraper | unknown | unknown | No |
 | ✓ | incunnabilia-early-book-digitization | ✓ | no |No |
 | ✓ | iskm2017 | unknown | unknown  |No |
