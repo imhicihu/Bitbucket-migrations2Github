@@ -2,29 +2,30 @@
 
 | Migrated | Name of repository | Master branch protection | Deprecated | Archived |
 |:--|:--|:-- |:-- |:-- |
-| ✓ | Augmented_Reality_Cemetery_experimental | ✓ | no |No |
-| ✓ |  AUVisual | ✓ | no |No |
-| ✓ | Bibliographical database migration | unknown | unknown | No |
-| ✓ | Book Scanner | unknown | unknown | No |
-| ✓ | Branding | unknown | unknown | No |
-| ✓ | Chapman | unknown | unknown | No |
-| ✓ | Chapman documentary | unknown | unknown | No |
-| ✓ | Dila | ✓ | unknown | No |
-| ✓ | Database repositories | unknown | unknown |No |
-| ✓ | Documentation migration to `ReadTheDocs` experimental | unknown | ✓  |No |
+| ✓ | Augmented_Reality_Cemetery_experimental | ✓ | No |No |
+| ✓ |  AUVisual | ✓ | No |No |
+| ✓ | Bibliographical database migration | No | No | No |
+| ✓ | Book Scanner | No | No | No |
+| ✓ | Branding | No | No | No |
+| ✓ | Chapman | No | No | No |
+| ✓ | Chapman documentary | No | No | No |
+| ✓ | Dila | ✓ | No | No |
+| ✓ | Database repositories | No | No |No |
+| ✓ | Digital diaspora | ✓ | No | ✓ |
+| ✓ | Documentation migration to `ReadTheDocs` experimental | No | ✓  |No |
 | ✓ | Dotfiles | ✓ | No | No |
-| ✓ | General Scraper | unknown | unknown | No |
-| ✓ | incunnabilia-early-book-digitization | ✓ | no |No |
-| ✓ | iskm2017 | unknown | unknown  |No |
-| ✓ | ISKM2107 Mobile App | unknown | unknown | No |
-| ✓ | R on proxy server | unknown | unknown | No |
-| ✓ | RSS feeds self tracking control of repositories | unknown | unknown| No |
-| ✓ | Setting up Github proxy server | unknown | unknown | No |
-| ✓ | Software database repository | unknown | unknown| No |
-| ✓ | Streaming | unknown | unknown |No |
-| ✓ | oxcal | ✓ | no |Si |
-| ✓ | Virtualization Winglyph | unknown | unknown |No |
-| ✓ | Win-Isis migration | unknown | unknown |No |
+| ✓ | General Scraper | No | No | No |
+| ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
+| ✓ | iskm2017 | No | No  |No |
+| ✓ | ISKM2107 Mobile App | No | No | No |
+| ✓ | R on proxy server | No | No | No |
+| ✓ | RSS feeds self tracking control of repositories | No | No| No |
+| ✓ | Setting up Github proxy server | No | No | No |
+| ✓ | Software database repository | No | No| No |
+| ✓ | Streaming | No | No |No |
+| ✓ | oxcal | ✓ | No |Si |
+| ✓ | Virtualization Winglyph | No | No |No |
+| ✓ | Win-Isis migration | No | No |No |
 
 
 
