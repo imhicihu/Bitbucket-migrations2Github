@@ -20,6 +20,7 @@
 | ✓ | iskm2017 | No | No  |No |
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
 | ✓ | R on proxy server | No | No | No |
+| ✓ | open-journal-system-ojs-project | ✓ | No | No |
 | ✓ | RSS feeds self tracking control of repositories | No | No| No |
 | ✓ | Setting up Github proxy server | No | No | No |
 | ✓ | Software database repository | No | No| No |
@@ -27,6 +28,9 @@
 | ✓ | oxcal | ✓ | No |Si |
 | ✓ | Virtualization Winglyph | No | No |No |
 | ✓ | Win-Isis migration | No | No |No |
+
+
+
 
 
 
