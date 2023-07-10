@@ -17,7 +17,7 @@
 | ✓ | Dotfiles | ✓ | No | No |
 | ✓ | General Scraper | No | No | No |
 | ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
-| ✓ | iskm2017 | No | No  |No |
+| ✓ | iskm2017 | ✓ | ✓  |✓ |
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
 | ✓ | R on proxy server | No | No | No |
 | ✓ | open-journal-system-ojs-project | ✓ | No | No |
