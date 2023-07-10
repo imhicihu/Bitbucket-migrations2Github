@@ -18,7 +18,7 @@
 | ✓ | General Scraper | No | No | No |
 | ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
 | ✓ | iskm2017 | No | No  |No |
-| ✓ | ISKM2107 Mobile App | No | No | No |
+| ✓ | ISKM2107 Mobile App | ✓ | No | No |
 | ✓ | R on proxy server | No | No | No |
 | ✓ | RSS feeds self tracking control of repositories | No | No| No |
 | ✓ | Setting up Github proxy server | No | No | No |
