@@ -19,7 +19,7 @@
 | ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
 | ✓ | iskm2017 | ✓ | ✓  |✓ |
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
-| ✓ | R on proxy server | No | No | No |
+| ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | open-journal-system-ojs-project | ✓ | No | No |
 | ✓ | RSS feeds self tracking control of repositories | No | No| No |
 | ✓ | Setting up Github proxy server | No | No | No |
