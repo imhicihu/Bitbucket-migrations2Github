@@ -11,6 +11,7 @@
 | ✓ | Chapman | No | No | No |
 | ✓ | Chapman documentary | No | No | No |
 | ✓ | Dila | ✓ | No | No |
+| ✓ | Database on mobile device | ✓ | ✓ | ✓ |
 | ✓ | Database repositories | No | No |No |
 | ✓ | Digital diaspora | ✓ | No | ✓ |
 | ✓ | Documentation migration to `ReadTheDocs` experimental | No | ✓  |No |
