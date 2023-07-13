@@ -18,6 +18,7 @@
 | ✓ | General Scraper | No | No | No |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
 | ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
+| ✓ | Internal-Forms | ✓ | No |No |
 | ✓ | iskm2017 | ✓ | ✓  |✓ |
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
