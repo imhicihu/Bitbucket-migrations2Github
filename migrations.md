@@ -31,7 +31,7 @@
 | ✓ | Streaming | No | No |No |
 | ✓ | oxcal | ✓ | No |Si |
 | ✓ | Virtualization Winglyph | No | No |No |
-| ✓ | Win-Isis migration | No | No |No |
+| ✓ | WinIsis-migration | ✓ | ✓ | ✓ |
 
 
 
