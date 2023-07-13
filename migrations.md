@@ -3,7 +3,7 @@
 | Migrated | Name of repository | Master branch protection | Deprecated | Archived |
 |:--|:--|:-- |:-- |:-- |
 | ✓ | Augmented_Reality_Cemetery_experimental | ✓ | No |No |
-| ✓ |  AUVisual | ✓ | No |No |
+| ✓ | AUVisual | ✓ | No |No |
 | ✓ | Bibliographical database migration | No | No | No |
 | ✓ | Bibliographical searcher (stand-alone app) | ✓ | No | No |
 | ✓ | Book Scanner | No | No | No |
@@ -24,6 +24,7 @@
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | open-journal-system-ojs-project | ✓ | No | No |
+| ✓ | Patrimonio database | ✓ | ✓ | ✓ |
 | ✓ | RSS feeds self tracking control of repositories | No | No| No |
 | ✓ | Setting up Github proxy server | No | No | No |
 | ✓ | Software database repository | No | No| No |
