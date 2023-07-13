@@ -7,7 +7,7 @@
 | ✓ | Bibliographical database migration | No | No | No |
 | ✓ | Bibliographical searcher (stand-alone app) | ✓ | No | No |
 | ✓ | Book Scanner | No | No | No |
-| ✓ | Branding | No | No | No |
+| ✓ | Branding | ✓ | No | No |
 | ✓ | Chapman | No | No | No |
 | ✓ | Chapman documentary | No | No | No |
 | ✓ | Dila | ✓ | No | No |
