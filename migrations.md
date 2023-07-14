@@ -29,7 +29,7 @@
 | ✓ | Setting up Github proxy server | No | No | No |
 | ✓ | Software database repository | No | No| No |
 | ✓ | Streaming | No | No |No |
-| ✓ | oxcal | ✓ | No |Si |
+| ✓ | oxcal | ✓ | ✓ | ✓ |
 | ✓ | Virtualization Winglyph | No | No |No |
 | ✓ | WinIsis-migration | ✓ | ✓ | ✓ |
 
