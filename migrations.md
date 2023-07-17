@@ -5,6 +5,7 @@
 | ✓ | Augmented_Reality_Cemetery_experimental | ✓ | No |No |
 | ✓ | AUVisual | ✓ | No |No |
 | ✓ | Bibliographical database migration | No | No | No |
+| ✓ | Biblio-search | ✓ | No | No |
 | ✓ | Bibliographical searcher (stand-alone app) | ✓ | No | No |
 | ✓ | Book Scanner | No | No | No |
 | ✓ | Branding | ✓ | No | No |
