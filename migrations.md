@@ -26,6 +26,7 @@
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | open-journal-system-ojs-project | ✓ | No | No |
 | ✓ | Patrimonio database | ✓ | ✓ | ✓ |
+| ✓ | Responsive-email | ✓ | No| No |
 | ✓ | RSS feeds self tracking control of repositories | No | No| No |
 | ✓ | Setting up Github proxy server | No | No | No |
 | ✓ | Software database repository | No | No| No |
