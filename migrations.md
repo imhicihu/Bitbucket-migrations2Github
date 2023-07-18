@@ -15,6 +15,7 @@
 | ✓ | Database on mobile device | ✓ | ✓ | ✓ |
 | ✓ | Database repositories | No | No |No |
 | ✓ | Digital diaspora | ✓ | No | ✓ |
+| ✓ | Digitalizacion-workflow | ✓ | No | No |
 | ✓ | Documentation migration to `ReadTheDocs` experimental | No | ✓  |No |
 | ✓ | Dotfiles | ✓ | No | No |
 | ✓ | General Scraper | No | No | No |
