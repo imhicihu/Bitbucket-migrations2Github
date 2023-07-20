@@ -7,6 +7,7 @@
 | ✓ | Bibliographical database migration | No | No | No |
 | ✓ | Biblio-search | ✓ | No | No |
 | ✓ | Bibliographical searcher (stand-alone app) | ✓ | No | No |
+| ✓ | bibliographical-database-migration | ✓ | ✓ | ✓ |
 | ✓ | Book Scanner | No | No | No |
 | ✓ | Branding | ✓ | No | No |
 | ✓ | Chapman | No | No | No |
@@ -33,6 +34,7 @@
 | ✓ | Software database repository | No | No| No |
 | ✓ | Streaming | No | No |No |
 | ✓ | oxcal | ✓ | ✓ | ✓ |
+| ✓ | Tell-el-Ghaba-digital-assembly | ✓ | No |No |
 | ✓ | Virtualization Winglyph | No | No |No |
 | ✓ | WinIsis-migration | ✓ | ✓ | ✓ |
 
