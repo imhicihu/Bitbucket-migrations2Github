@@ -2,6 +2,7 @@
 
 | Migrated | Name of repository | Master branch protection | Deprecated | Archived |
 |:--|:--|:-- |:-- |:-- |
+| ✓ | Android-environment-virtualization | ✓ | No |No |
 | ✓ | Augmented_Reality_Cemetery_experimental | ✓ | No |No |
 | ✓ | AUVisual | ✓ | No |No |
 | ✓ | Bibliographical database migration | No | No | No |
