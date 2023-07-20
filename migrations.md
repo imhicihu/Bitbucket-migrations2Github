@@ -35,7 +35,7 @@
 | ✓ | Software database repository | No | No| No |
 | ✓ | Streaming | No | No |No |
 | ✓ | oxcal | ✓ | ✓ | ✓ |
-| ✓ | proxy-access | ✓ | No |No |
+| ✓ | proxy-access | ✓ | ✓ | ✓ |
 | ✓ | Tell-el-Ghaba-digital-assembly | ✓ | No |No |
 | ✓ | Virtualization Winglyph | No | No |No |
 | ✓ | WinIsis-migration | ✓ | ✓ | ✓ |
