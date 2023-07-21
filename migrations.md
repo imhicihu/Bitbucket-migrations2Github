@@ -34,6 +34,7 @@
 | ✓ | Setting up Github proxy server | No | No | No |
 | ✓ | Software database repository | No | No| No |
 | ✓ | Streaming | No | No |No |
+| ✓ | Terrae database | ✓ | No |No |
 | ✓ | oxcal | ✓ | ✓ | ✓ |
 | ✓ | proxy-access | ✓ | ✓ | ✓ |
 | ✓ | Tell-el-Ghaba-digital-assembly | ✓ | No |No |
