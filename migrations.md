@@ -16,6 +16,7 @@
 | ✓ | Dila | ✓ | No | No |
 | ✓ | Database on mobile device | ✓ | ✓ | ✓ |
 | ✓ | Database repositories | No | No |No |
+| ✓ | Digital cartography | ✓ | No | ✓ |
 | ✓ | Digital diaspora | ✓ | No | ✓ |
 | ✓ | Digitalizacion-workflow | ✓ | No | No |
 | ✓ | Documentation-migration-ReadTheDocs  | ✓ | ✓  |✓ |
