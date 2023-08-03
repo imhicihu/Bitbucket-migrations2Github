@@ -18,7 +18,7 @@
 | ✓ | Database repositories | No | No |No |
 | ✓ | Digital diaspora | ✓ | No | ✓ |
 | ✓ | Digitalizacion-workflow | ✓ | No | No |
-| ✓ | Documentation migration to `ReadTheDocs` experimental | No | ✓  |No |
+| ✓ | Documentation-migration-ReadTheDocs  | ✓ | ✓  |✓ |
 | ✓ | Dotfiles | ✓ | No | No |
 | ✓ | General Scraper | No | No | No |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
