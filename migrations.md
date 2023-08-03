@@ -20,7 +20,7 @@
 | ✓ | Digital diaspora | ✓ | No | ✓ |
 | ✓ | Digitalizacion-workflow | ✓ | No | No |
 | ✓ | Documentation-migration-ReadTheDocs  | ✓ | ✓  |✓ |
-| ✓ | Domestic-issues | ✓ | No | ✓ |
+| ✓ | Domestic-issues | ✓ | No | No |
 | ✓ | Dotfiles | ✓ | No | No |
 | ✓ | General Scraper | No | No | No |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
