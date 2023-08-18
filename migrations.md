@@ -36,7 +36,7 @@
 | ✓ | RSS feeds self tracking control of repositories | No | No| No |
 | ✓ | Setting up Github proxy server | No | No | No |
 | ✓ | Software database repository | No | No| No |
-| ✓ | Streaming | Si | No |No |
+| ✓ | Streaming | ✓ | No |No |
 | ✓ | Terrae database | ✓ | No |No |
 | ✓ | oxcal | ✓ | ✓ | ✓ |
 | ✓ | proxy-access | ✓ | ✓ | ✓ |
