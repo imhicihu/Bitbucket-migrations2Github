@@ -9,7 +9,7 @@
 | ✓ | Biblio-search | ✓ | No | No |
 | ✓ | Bibliographical searcher (stand-alone app) | ✓ | No | No |
 | ✓ | bibliographical-database-migration | ✓ | ✓ | ✓ |
-| ✓ | Book Scanner | No | No | No |
+| ✓ | Book Scanner | ✓ | No | No |
 | ✓ | Branding | ✓ | No | No |
 | ✓ | Chapman | No | No | No |
 | ✓ | Chapman documentary | No | No | No |
