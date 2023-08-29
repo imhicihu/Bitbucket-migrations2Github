@@ -35,7 +35,7 @@
 | ✓ | Presentations-checklists | ✓ | No | No |
 | ✓ | Responsive-email | ✓ | No| No |
 | ✓ | RSS feeds self tracking control of repositories | No | No| No |
-| ✓ | Setting up Github proxy server | No | No | No |
+| ✓ | Setting up Github proxy server | ✓ | ✓ | ✓ |
 | ✓ | Software database repository | No | No| No |
 | ✓ | Streaming | ✓ | No |No |
 | ✓ | Terrae database | ✓ | No |No |
