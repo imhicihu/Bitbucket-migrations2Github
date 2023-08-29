@@ -7,7 +7,7 @@
 | ✓ | AUVisual | ✓ | No |No |
 | ✓ | Bibliographical database migration | No | No | No |
 | ✓ | Biblio-search | ✓ | No | No |
-| ✓ | Bibliographical searcher (stand-alone app) | ✓ | No | No |
+| ✓ | bibliographical-hybrid-mobile-app | ✓ | No | No |
 | ✓ | bibliographical-database-migration | ✓ | ✓ | ✓ |
 | ✓ | Book Scanner | ✓ | No | No |
 | ✓ | Branding | ✓ | No | No |
