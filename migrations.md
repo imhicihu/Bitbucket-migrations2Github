@@ -12,7 +12,7 @@
 | ✓ | Book Scanner | ✓ | No | No |
 | ✓ | Branding | ✓ | No | No |
 | ✓ | Chapman | No | No | No |
-| ✓ | Chapman documentary | No | No | No |
+| ✓ | Chapman documentary | ✓ | No | No |
 | ✓ | Dila | ✓ | No | No |
 | ✓ | Database on mobile device | ✓ | ✓ | ✓ |
 | ✓ | Database repositories | No | No |No |
