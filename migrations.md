@@ -44,7 +44,7 @@
 | ✓ | oxcal | ✓ | ✓ | ✓ |
 | ✓ | proxy-access | ✓ | ✓ | ✓ |
 | ✓ | Tell-el-Ghaba-digital-assembly | ✓ | No |No |
-| ✓ | Virtualization Winglyph | No | No |No |
+| ✓ | Virtualization Winglyph | ✓ | No |No |
 | ✓ | WinIsis-migration | ✓ | ✓ | ✓ |
 
 
