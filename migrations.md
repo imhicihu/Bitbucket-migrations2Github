@@ -27,8 +27,9 @@
 | ✓ | Github-transfers | ✓ | ✓ | ✓ |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
 | ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
+| ✓ | imhicihu-webfont | ✓ | No |No |
 | ✓ | Internal-Forms | ✓ | No |No |
-| ✓ | iskm2017 | ✓ | ✓  |✓ |
+| ✓ | iskm2017 | ✓ | ✓  |✓ | 
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | open-journal-system-ojs-project | ✓ | No | No |
