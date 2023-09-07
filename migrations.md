@@ -41,7 +41,7 @@
 | ✓ | Scopus-metadata | ✓ | ✓ | ✓ |
 | ✓ | Software database repository | No | No| No |
 | ✓ | Streaming | ✓ | No |No |
-| ✓ | Terrae database | ✓ | No |No |
+| ✓ | Terrae database | ✓ | ✓ |✓ |
 | ✓ | oxcal | ✓ | ✓ | ✓ |
 | ✓ | proxy-access | ✓ | ✓ | ✓ |
 | ✓ | Tell-el-Ghaba-digital-assembly | ✓ | No |No |
