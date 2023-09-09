@@ -11,7 +11,7 @@
 | ✓ | bibliographical-database-migration | ✓ | ✓ | ✓ |
 | ✓ | Book Scanner | ✓ | No | No |
 | ✓ | Branding | ✓ | No | No |
-| ✓ | Chapman | No | No | No |
+| ✓ | ~~Chapman~~ | ~~No~~ | ~~No~~ | ~~No~~ |
 | ✓ | Chapman documentary | ✓ | No | No |
 | ✓ | Citation-style-bootcamp | ✓ | No | No |
 | ✓ | Dila | ✓ | No | No |
