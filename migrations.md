@@ -14,7 +14,7 @@
 | ✓ | ~~Chapman~~ | ~~No~~ | ~~No~~ | ~~No~~ |
 | ✓ | Chapman documentary | ✓ | No | No |
 | ✓ | Citation-style-bootcamp | ✓ | No | No |
-| ✓ | Dila | ✓ | No | No |
+| No | Dila | ✓ | No | No |
 | ✓ | Database on mobile device | ✓ | ✓ | ✓ |
 | ✓ | Database repositories | No | No |No |
 | ✓ | Digital cartography | ✓ | No | ✓ |
@@ -22,15 +22,14 @@
 | ✓ | Digitalizacion-workflow | ✓ | No | No |
 | ✓ | Documentation-migration-ReadTheDocs  | ✓ | ✓  |✓ |
 | ✓ | Domestic-issues | ✓ | No | No |
-| ✓ | Dotfiles | ✓ | No | No |
-| ✓ | experimental-inner-projects | ✓ | No | No |
 | No | Dotfiles | ✓ | No | No |
+| ✓ | experimental-inner-projects | ✓ | No | No |
 | ✓ | General Scraper | No | No | No |
 | ✓ | Github-transfers | ✓ | ✓ | ✓ |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
 | ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
 | ✓ | imhicihu-webfont | ✓ | No |No |
-| ✓ | IMHICIHU-Biblioteca | ✓ | No |No |
+| No | IMHICIHU-Biblioteca | ✓ | No |No |
 | ✓ | Internal-Forms | ✓ | No |No |
 | ✓ | iskm2017 | ✓ | ✓  |✓ | 
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
