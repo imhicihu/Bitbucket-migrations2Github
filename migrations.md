@@ -30,6 +30,7 @@
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
 | ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
 | ✓ | imhicihu-webfont | ✓ | No |No |
+| ✓ | IMHICIHU-Biblioteca | ✓ | No |No |
 | ✓ | Internal-Forms | ✓ | No |No |
 | ✓ | iskm2017 | ✓ | ✓  |✓ | 
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
