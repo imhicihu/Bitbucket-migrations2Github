@@ -24,7 +24,7 @@
 | ✓ | Domestic-issues | ✓ | No | No |
 | No | Dotfiles | ✓ | No | No |
 | ✓ | experimental-inner-projects | ✓ | No | No |
-| ✓ | General Scraper | No | No | No |
+| ✓ | General Scraper | ✓ | No | No |
 | ✓ | Github-transfers | ✓ | ✓ | ✓ |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
 | ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
