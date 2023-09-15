@@ -4,6 +4,7 @@
 |:--|:--|:-- |:-- |:-- |
 | ✓ | Android-environment-virtualization | ✓ | No |No |
 | ✓ | Augmented_Reality_Cemetery_experimental | ✓ | No |No |
+| ✓ | Automation | ✓ | No |No |
 | ✓ | AUVisual | ✓ | No |No |
 | ✓ | Bibliographical database migration | No | No | No |
 | ✓ | Biblio-search | ✓ | No | No |
@@ -14,7 +15,7 @@
 | ✓ | ~~Chapman~~ | ~~No~~ | ~~No~~ | ~~No~~ |
 | ✓ | Chapman documentary | ✓ | No | No |
 | ✓ | Citation-style-bootcamp | ✓ | No | No |
-| No | Dila | ✓ | No | No |
+| Created in GitHub | Dila | ✓ | No | No |
 | ✓ | Database on mobile device | ✓ | ✓ | ✓ |
 | ✓ | Database repositories | No | No |No |
 | ✓ | Digital cartography | ✓ | No | ✓ |
@@ -22,14 +23,14 @@
 | ✓ | Digitalizacion-workflow | ✓ | No | No |
 | ✓ | Documentation-migration-ReadTheDocs  | ✓ | ✓  |✓ |
 | ✓ | Domestic-issues | ✓ | No | No |
-| No | Dotfiles | ✓ | No | No |
+| Created in GitHub | Dotfiles | ✓ | No | No |
 | ✓ | experimental-inner-projects | ✓ | No | No |
 | ✓ | General Scraper | ✓ | No | No |
 | ✓ | Github-transfers | ✓ | ✓ | ✓ |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
 | ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
 | ✓ | imhicihu-webfont | ✓ | No |No |
-| No | IMHICIHU-Biblioteca | ✓ | No |No |
+| Created in GitHub | IMHICIHU-Biblioteca | ✓ | No |No |
 | ✓ | Internal-Forms | ✓ | No |No |
 | ✓ | iskm2017 | ✓ | ✓  |✓ | 
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
