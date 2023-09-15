@@ -4,4 +4,4 @@
 This repository is for the sole purpose of tracking the migration between Bitbucket to Github. Appended there is some choices that must be done: isolate those who gonna be deprecated to those who are active.
 The _raison d'être_ is because of this is a mandatory rule shared by Github:
 ![mandatory-rule](images/mandatory.png) 
-This is an internal tool and solely for our reference.
+This is an _internal_ tool and solely for our tracking and reference.
