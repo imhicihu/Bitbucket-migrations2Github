@@ -2,6 +2,7 @@
 
 | Migrated | Name of repository | Master branch protection | Deprecated | Archived |
 |:--|:--|:-- |:-- |:-- |
+| ✓ | ai-document-recognition | ✓ | No |No |
 | ✓ | Android-environment-virtualization | ✓ | No |No |
 | ✓ | Augmented_Reality_Cemetery_experimental | ✓ | No |No |
 | ✓ | Automation | ✓ | No |No |
