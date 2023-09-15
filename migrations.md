@@ -44,6 +44,7 @@
 | ✓ | Scopus-metadata | ✓ | ✓ | ✓ |
 | ✓ | Software database repository | No | No| No |
 | ✓ | Streaming | ✓ | No |No |
+| ✓ | template-digital-publication | ✓ | No |No |
 | ✓ | Terrae database | ✓ | ✓ |✓ |
 | ✓ | oxcal | ✓ | ✓ | ✓ |
 | ✓ | proxy-access | ✓ | ✓ | ✓ |
