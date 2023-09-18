@@ -30,6 +30,7 @@
 | ✓ | Github-transfers | ✓ | ✓ | ✓ |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
 | ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
+| ✓ | IMHICIHU-Digital-Repository | ✓ | No |No |
 | ✓ | imhicihu-webfont | ✓ | No |No |
 | Created in GitHub | IMHICIHU-Biblioteca | ✓ | No |No |
 | ✓ | IMHICIHU-Digital-Repository | ✓ | No |No |
