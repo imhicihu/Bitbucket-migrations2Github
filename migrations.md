@@ -47,6 +47,7 @@
 | ✓ | Presentations-checklists | ✓ | No | No |
 | ✓ | Responsive-email | ✓ | No| No |
 | ✓ | RSS feeds self tracking control of repositories | No | No| No |
+| ✓ | Temas-Medievales-project | ✓ | No | No |
 | ✓ | Setting up Github proxy server | ✓ | ✓ | ✓ |
 | ✓ | Scopus-metadata | ✓ | ✓ | ✓ |
 | ✓ | Software database repository | No | No| No |
