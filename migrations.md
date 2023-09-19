@@ -39,6 +39,7 @@
 | ✓ | iskm2017 | ✓ | ✓  |✓ | 
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
 | ✓ | Migration data (checklist) | ✓ | ✓ | ✓ |
+| ✓ | migration-data-between-macosx | ✓ | No | No |
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | open-journal-system-ojs-project | ✓ | No | No |
 | ✓ | Patrimonio database | ✓ | ✓ | ✓ |
