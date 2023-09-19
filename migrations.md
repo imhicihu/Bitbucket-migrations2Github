@@ -43,6 +43,7 @@
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | open-journal-system-ojs-project | ✓ | No | No |
 | ✓ | Patrimonio database | ✓ | ✓ | ✓ |
+| ✓ | pdf-inner-structure | ✓ | No | No |
 | ✓ | Presentations-checklists | ✓ | No | No |
 | ✓ | Responsive-email | ✓ | No| No |
 | ✓ | RSS feeds self tracking control of repositories | No | No| No |
