@@ -38,7 +38,7 @@
 | ✓ | Internal-Forms | ✓ | No |No |
 | ✓ | iskm2017 | ✓ | ✓  |✓ | 
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
-| ✓ | Migration data (checklist) | ✓ | No |No |
+| ✓ | Migration data (checklist) | ✓ | ✓ | ✓ |
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | open-journal-system-ojs-project | ✓ | No | No |
 | ✓ | Patrimonio database | ✓ | ✓ | ✓ |
