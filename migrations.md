@@ -43,6 +43,7 @@
 | ✓ | Migration data (checklist) | ✓ | ✓ | ✓ |
 | ✓ | migration-data-between-macosx | ✓ | No | No |
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
+| ✓ | r-jupyter-notebooks | ✓ | No | No |
 | ✓ | open-journal-system-ojs-project | ✓ | No | No |
 | ✓ | Patrimonio database | ✓ | ✓ | ✓ |
 | ✓ | pdf-inner-structure | ✓ | No | No |
