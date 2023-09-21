@@ -41,6 +41,7 @@
 | ✓ | iskm2017 | ✓ | ✓  |✓ | 
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
 | ✓ | Migration data (checklist) | ✓ | ✓ | ✓ |
+| ✓ | Migration-bookmarks-to-Evernote | ✓ | No | No |
 | ✓ | migration-data-between-macosx | ✓ | No | No |
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | r-jupyter-notebooks | ✓ | No | No |
