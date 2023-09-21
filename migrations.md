@@ -19,6 +19,7 @@
 | ✓ | Conferences | ✓ | No | No |
 | ✓ | Citation-style-bootcamp | ✓ | No | No |
 | Created in GitHub | Dila | ✓ | No | No |
+| ✓ | Evacuación-public-service | No | No |No |
 | ✓ | Database on mobile device | ✓ | ✓ | ✓ |
 | ✓ | Database repositories | No | No |No |
 | ✓ | Digital cartography | ✓ | No | ✓ |
