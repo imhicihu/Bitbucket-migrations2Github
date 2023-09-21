@@ -50,7 +50,7 @@
 | ✓ | Presentations-checklists | ✓ | No | No |
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | Responsive-email | ✓ | No| No |
-| ✓ | RSS feeds self tracking control of repositories | No | No| No |
+| ✓ | RSS feeds self tracking control of repositories | ✓ | No| No |
 | ✓ | Temas-Medievales-project | ✓ | No | No |
 | ✓ | Setting up Github proxy server | ✓ | ✓ | ✓ |
 | ✓ | Scopus-metadata | ✓ | ✓ | ✓ |
