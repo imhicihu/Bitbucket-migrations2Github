@@ -46,6 +46,7 @@
 | ✓ | Patrimonio database | ✓ | ✓ | ✓ |
 | ✓ | pdf-inner-structure | ✓ | No | No |
 | ✓ | Presentations-checklists | ✓ | No | No |
+| ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | Responsive-email | ✓ | No| No |
 | ✓ | RSS feeds self tracking control of repositories | No | No| No |
 | ✓ | Temas-Medievales-project | ✓ | No | No |
