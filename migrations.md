@@ -54,7 +54,7 @@
 | ✓ | Temas-Medievales-project | ✓ | No | No |
 | ✓ | Setting up Github proxy server | ✓ | ✓ | ✓ |
 | ✓ | Scopus-metadata | ✓ | ✓ | ✓ |
-| ✓ | Software database repository | No | No| No |
+| ✓ | Software database repository | ✓ | No| No |
 | ✓ | Streaming | ✓ | No |No |
 | ✓ | template-digital-publication | ✓ | No |No |
 | ✓ | Terrae database | ✓ | ✓ |✓ |
