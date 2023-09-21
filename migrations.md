@@ -32,6 +32,7 @@
 | ✓ | General Scraper | ✓ | No | No |
 | ✓ | Github-transfers | ✓ | ✓ | ✓ |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
+| ✓ | firewall-settings-mac-environments | ✓ | No | No |
 | ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
 | Created in GitHub | IMHICIHU-Biblioteca | ✓ | No |No |
 | ✓ | IMHICIHU-Digital-Repository | ✓ | No |No |
