@@ -63,6 +63,8 @@
 | ✓ | Tell-el-Ghaba-digital-assembly | ✓ | No |No |
 | ✓ | Virtualization Winglyph | ✓ | No |No |
 | ✓ | WinIsis-migration | ✓ | ✓ | ✓ |
+| ✓ | Winglyph-virtualization | ✓ | No | No |
+
 
 
 
