@@ -18,8 +18,8 @@
 | ✓ | Chapman documentary | ✓ | No | No |
 | ✓ | Conferences | ✓ | No | No |
 | ✓ | Citation-style-bootcamp | ✓ | No | No |
-| Created in GitHub | Dila | ✓ | No | No |
-| ✓ | Evacuación | ✓ | No |No |
+| _Created in GitHub_ | Dila | ✓ | No | No |
+| ✓ | Evacuación (public-service)| ✓ | No |No |
 | ✓ | Database on mobile device | ✓ | ✓ | ✓ |
 | ✓ | Database repositories | No | No |No |
 | ✓ | Digital cartography | ✓ | No | ✓ |
@@ -27,29 +27,30 @@
 | ✓ | Digitalizacion-workflow | ✓ | No | No |
 | ✓ | Documentation-migration-ReadTheDocs  | ✓ | ✓  |✓ |
 | ✓ | Domestic-issues | ✓ | No | No |
-| Created in GitHub | Dotfiles | ✓ | No | No |
-| ✓ | experimental-inner-projects | ✓ | No | No |
+| _Created in GitHub_ | Dotfiles | ✓ | No | No |
+| ✓ | Experimental-inner-projects | ✓ | No | No |
+| ✓ | Firewall-settings-mac-environments | ✓ | No | No |
 | ✓ | General Scraper | ✓ | No | No |
 | ✓ | Github-transfers | ✓ | ✓ | ✓ |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
-| ✓ | firewall-settings-mac-environments | ✓ | No | No |
-| ✓ | incunnabilia-early-book-digitization | ✓ | No |No |
-| Created in GitHub | IMHICIHU-Biblioteca | ✓ | No |No |
+| ✓ | Incunnabilia-early-book-digitization | ✓ | No |No |
+| _Created in GitHub_ | IMHICIHU-Biblioteca | ✓ | No |No |
 | ✓ | IMHICIHU-Digital-Repository | ✓ | No |No |
-| ✓ | imhicihu-webfont | ✓ | No |No |
+| ✓ | Imhicihu-webfont | ✓ | No |No |
 | ✓ | Internal-Forms | ✓ | No |No |
 | ✓ | Internal wiki | ✓ | No |No |
 | ✓ | iskm2017 | ✓ | ✓  |✓ | 
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
 | ✓ | Migration data (checklist) | ✓ | ✓ | ✓ |
 | ✓ | Migration-bookmarks-to-Evernote | ✓ | No | No |
-| ✓ | migration-data-between-macosx | ✓ | No | No |
-| ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
-| ✓ | r-jupyter-notebooks | ✓ | No | No |
-| ✓ | open-journal-system-ojs-project | ✓ | No | No |
+| ✓ | Migration-data-between-macosx | ✓ | No | No |
+| ✓ | R-jupyter-notebooks | ✓ | No | No |
+| ✓ | Open-journal-system-ojs-project | ✓ | No | No |
+| ✓ | Oxcal | ✓ | ✓ | ✓ |
 | ✓ | Patrimonio database | ✓ | ✓ | ✓ |
-| ✓ | pdf-inner-structure | ✓ | No | No |
+| ✓ | PDF-inner-structure | ✓ | No | No |
 | ✓ | Presentations-checklists | ✓ | No | No |
+| ✓ | Proxy-access | ✓ | ✓ | ✓ |
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | Responsive-email | ✓ | No| No |
 | ✓ | RSS feeds self tracking control of repositories | ✓ | No| No |
@@ -58,10 +59,8 @@
 | ✓ | Scopus-metadata | ✓ | ✓ | ✓ |
 | ✓ | Software database repository | ✓ | No| No |
 | ✓ | Streaming | ✓ | No |No |
-| ✓ | template-digital-publication | ✓ | No |No |
+| ✓ | Template-digital-publication | ✓ | No |No |
 | ✓ | Terrae database | ✓ | ✓ |✓ |
-| ✓ | oxcal | ✓ | ✓ | ✓ |
-| ✓ | proxy-access | ✓ | ✓ | ✓ |
 | ✓ | Tell-el-Ghaba-digital-assembly | ✓ | No |No |
 | ✓ | Virtualization Winglyph | ✓ | No |No |
 | ✓ | WinIsis-migration | ✓ | ✓ | ✓ |
