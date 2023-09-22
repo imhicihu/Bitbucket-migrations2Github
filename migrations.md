@@ -64,6 +64,7 @@
 | ✓ | Terrae database | ✓ | ✓ |✓ |
 | ✓ | Tell-el-Ghaba-digital-assembly | ✓ | No |No |
 | ✓ | Virtualization Winglyph | ✓ | No |No |
+| ✓ | Website (add-ons et alia) | ✓ | No |No |
 | ✓ | WinIsis-migration | ✓ | ✓ | ✓ |
 | ✓ | Winglyph-virtualization | ✓ | No | No |
 
