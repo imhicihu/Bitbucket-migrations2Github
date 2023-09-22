@@ -7,7 +7,6 @@
 | ✓ | Augmented_Reality_Cemetery_experimental | ✓ | No |No |
 | ✓ | Automation | ✓ | No |No |
 | ✓ | AUVisual | ✓ | No |No |
-| ✓ | Bibliographical database migration | No | No | No |
 | ✓ | Biblioteca-over-shiny-app | ✓ | No | No |
 | ✓ | Biblio-search | ✓ | No | No |
 | ✓ | bibliographical-hybrid-mobile-app | ✓ | No | No |
