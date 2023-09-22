@@ -9,6 +9,7 @@
 | ✓ | AUVisual | ✓ | No |No |
 | ✓ | Biblioteca-over-shiny-app | ✓ | No | No |
 | ✓ | Biblio-search | ✓ | No | No |
+| ✓ | Bibliographic-data-on-ios-device | ✓ | No | No |
 | ✓ | Bibliographical-hybrid-mobile-app | ✓ | No | No |
 | ✓ | Bibliographical-database-migration | ✓ | ✓ | ✓ |
 | ✓ | Book Scanner | ✓ | No | No |
@@ -17,6 +18,7 @@
 | ✓ | Conferences | ✓ | No | No |
 | ✓ | Citation-style-bootcamp | ✓ | No | No |
 | _Created in GitHub_ | Dila | ✓ | No | No |
+| ✓ | Experimental-inner-projects | ✓ | No | No |
 | ✓ | Evacuación (public-service)| ✓ | No |No |
 | ✓ | Database on mobile device | ✓ | ✓ | ✓ |
 | ✓ | Database-repositories | ✓ | ✓ | ✓ |
