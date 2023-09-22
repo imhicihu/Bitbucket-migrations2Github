@@ -21,7 +21,7 @@
 | _Created in GitHub_ | Dila | ✓ | No | No |
 | ✓ | Evacuación (public-service)| ✓ | No |No |
 | ✓ | Database on mobile device | ✓ | ✓ | ✓ |
-| ✓ | Database-repositories | ✓ | No |No |
+| ✓ | Database-repositories | ✓ | ✓ | ✓ |
 | ✓ | Digital cartography | ✓ | No | ✓ |
 | ✓ | Digital diaspora | ✓ | No | ✓ |
 | ✓ | Digitalizacion-workflow | ✓ | No | No |
