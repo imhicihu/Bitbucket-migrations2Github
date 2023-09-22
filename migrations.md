@@ -43,13 +43,14 @@
 | ✓ | Migration data (checklist) | ✓ | ✓ | ✓ |
 | ✓ | Migration-bookmarks-to-Evernote | ✓ | No | No |
 | ✓ | Migration-data-between-macosx | ✓ | No | No |
-| ✓ | R-jupyter-notebooks | ✓ | No | No |
 | ✓ | Open-journal-system-ojs-project | ✓ | No | No |
 | ✓ | Oxcal | ✓ | ✓ | ✓ |
 | ✓ | Patrimonio database | ✓ | ✓ | ✓ |
 | ✓ | PDF-inner-structure | ✓ | No | No |
 | ✓ | Presentations-checklists | ✓ | No | No |
 | ✓ | Proxy-access | ✓ | ✓ | ✓ |
+| ✓ | qr-code | ✓ | ✓ | ✓ |
+| ✓ | R-jupyter-notebooks | ✓ | No | No |
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | Responsive-email | ✓ | No| No |
 | ✓ | RSS feeds self tracking control of repositories | ✓ | No| No |
