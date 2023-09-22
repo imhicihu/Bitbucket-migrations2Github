@@ -2,15 +2,15 @@
 
 | Migrated | Name of repository | Master branch protection | Deprecated | Archived |
 |:--|:--|:-- |:-- |:-- |
-| ✓ | ai-document-recognition | ✓ | No |No |
+| ✓ | AI-document-recognition | ✓ | No |No |
 | ✓ | Android-environment-virtualization | ✓ | No |No |
 | ✓ | Augmented_Reality_Cemetery_experimental | ✓ | No |No |
 | ✓ | Automation | ✓ | No |No |
 | ✓ | AUVisual | ✓ | No |No |
 | ✓ | Biblioteca-over-shiny-app | ✓ | No | No |
 | ✓ | Biblio-search | ✓ | No | No |
-| ✓ | bibliographical-hybrid-mobile-app | ✓ | No | No |
-| ✓ | bibliographical-database-migration | ✓ | ✓ | ✓ |
+| ✓ | Bibliographical-hybrid-mobile-app | ✓ | No | No |
+| ✓ | Bibliographical-database-migration | ✓ | ✓ | ✓ |
 | ✓ | Book Scanner | ✓ | No | No |
 | ✓ | Branding | ✓ | No | No |
 | ✓ | ~~Chapman~~ | ~~No~~ | ~~No~~ | ~~No~~ |
@@ -21,7 +21,7 @@
 | ✓ | Evacuación (public-service)| ✓ | No |No |
 | ✓ | Database on mobile device | ✓ | ✓ | ✓ |
 | ✓ | Database-repositories | ✓ | ✓ | ✓ |
-| ✓ | Digital cartography | ✓ | No | ✓ |
+| ✓ | Digital cartography | ✓ | ✓ | ✓ |
 | ✓ | Digital diaspora | ✓ | No | ✓ |
 | ✓ | Digitalizacion-workflow | ✓ | No | No |
 | ✓ | Documentation-migration-ReadTheDocs  | ✓ | ✓  |✓ |
