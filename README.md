@@ -1,3 +1,4 @@
+![stability-work_in_progress](images/3278295154-status_archived.png)
 ![stability-work_in_progress](images/stability-work_in_progress.png)
 ![internalise-green](images/internal_use_Stable.png)
 # Bitbucket-Migrations2Github
