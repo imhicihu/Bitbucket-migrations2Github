@@ -23,7 +23,7 @@
 | ✓ | Database on mobile device | ✓ | ✓ | ✓ |
 | ✓ | Database-repositories | ✓ | ✓ | ✓ |
 | ✓ | Digital cartography | ✓ | ✓ | ✓ |
-| ✓ | Digital diaspora | ✓ | No | ✓ |
+| ✓ | Digital-dyaspora | ✓ | No | ✓ |
 | ✓ | Digitalizacion-workflow | ✓ | No | ✓ |
 | ✓ | Documentation-migration-ReadTheDocs  | ✓ | ✓  |✓ |
 | ✓ | Domestic-issues | ✓ | No | ✓ |
@@ -40,7 +40,7 @@
 | ✓ | Imhicihu-webfont | ✓ | No |No |
 | ✓ | Internal-Forms | ✓ | No |No |
 | ✓ | Internal wiki | ✓ | No |No |
-| ✓ | iskm2017 | ✓ | ✓  |✓ | 
+| ✓ | ISKM2017 | ✓ | ✓  |✓ | 
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
 | ✓ | Migration data (checklist) | ✓ | ✓ | ✓ |
 | ✓ | Migration-bookmarks-to-Evernote | ✓ | No | ✓ |
