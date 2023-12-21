@@ -55,7 +55,7 @@
 | ✓ | R-on-proxy-server | ✓ | ✓ | ✓ |
 | ✓ | Responsive-email | ✓ | No| No |
 | ✓ | RSS feeds self tracking control of repositories | ✓ | No| No |
-| ✓ | Temas-Medievales-project | ✓ | No | No |
+| ✓ | Temas-Medievales-project | ✓ | No | ✓ |
 | ✓ | Setting up Github proxy server | ✓ | ✓ | ✓ |
 | ✓ | Scopus-metadata | ✓ | ✓ | ✓ |
 | ✓ | Software database repository | ✓ | No| No |
