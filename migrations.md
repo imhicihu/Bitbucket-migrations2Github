@@ -35,7 +35,7 @@
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
 | ✓ | Incunnabilia | ✓ | No |✓ |
 | _Created in GitHub_ | IMHICIHU-Biblioteca | ✓ | No |No |
-| ✓ | IMHICIHU-Digital-Repository | ✓ | No |No |
+| ✓ | IMHICIHU-Digital-Repository | ✓ | No |✓ |
 | ✓ | Imhicihu-webfont | ✓ | No |No |
 | ✓ | Internal-Forms | ✓ | No |No |
 | ✓ | Internal wiki | ✓ | No |No |
@@ -67,7 +67,7 @@
 | ✓ | Virtualization Winglyph | ✓ | No |No |
 | ✓ | Website (add-ons et alia) | ✓ | No |No |
 | ✓ | WinIsis-migration | ✓ | ✓ | ✓ |
-| ✓ | Winglyph-virtualization | ✓ | No | No |
+| ✓ | Winglyph-virtualization | ✓ | No | ✓ |
 
 
 
