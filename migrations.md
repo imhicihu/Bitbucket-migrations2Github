@@ -29,7 +29,7 @@
 | ✓ | Domestic-issues | ✓ | No | ✓ |
 | _Created in GitHub_ | Dotfiles | ✓ | No | No |
 | ✓ | Experimental-inner-projects | ✓ | No | No |
-| ✓ | Firewall-settings-mac-environments | ✓ | No | No |
+| ✓ | Firewall-settings-mac-environments | ✓ | No | ✓ |
 | ✓ | General Scraper | ✓ | No | No |
 | ✓ | Github-transfers | ✓ | ✓ | ✓ |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
