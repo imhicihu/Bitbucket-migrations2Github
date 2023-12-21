@@ -33,7 +33,7 @@
 | ✓ | General Scraper | ✓ | No | No |
 | ✓ | Github-transfers | ✓ | ✓ | ✓ |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
-| ✓ | Incunnabilia-early-book-digitization | ✓ | No |No |
+| ✓ | Incunnabilia | ✓ | No |✓ |
 | _Created in GitHub_ | IMHICIHU-Biblioteca | ✓ | No |No |
 | ✓ | IMHICIHU-Digital-Repository | ✓ | No |No |
 | ✓ | Imhicihu-webfont | ✓ | No |No |
