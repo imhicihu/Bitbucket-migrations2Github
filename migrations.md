@@ -9,7 +9,7 @@
 | ✓ | AUVisual | ✓ | No |No |
 | ✓ | Biblioteca-over-shiny-app | ✓ | No | No |
 | ✓ | Biblio-search | ✓ | No | No |
-| ✓ | Bibliographic-data-on-ios-device | ✓ | No | No |
+| ✓ | Bibliographic-data-on-ios-device | ✓ | No | ✓ |
 | ✓ | Bibliographical-hybrid-mobile-app | ✓ | No | No |
 | ✓ | Bibliographical-database-migration | ✓ | ✓ | ✓ |
 | ✓ | Book Scanner | ✓ | No | No |
@@ -42,7 +42,7 @@
 | ✓ | iskm2017 | ✓ | ✓  |✓ | 
 | ✓ | ISKM2107 Mobile App | ✓ | ✓ | ✓ |
 | ✓ | Migration data (checklist) | ✓ | ✓ | ✓ |
-| ✓ | Migration-bookmarks-to-Evernote | ✓ | No | No |
+| ✓ | Migration-bookmarks-to-Evernote | ✓ | No | ✓ |
 | ✓ | Migration-data-between-macosx | ✓ | No | No |
 | ✓ | NPM-under-proxy-settings | ✓ | ✓ | ✓ |
 | ✓ | Open-journal-system-ojs-project | ✓ | No | No |
