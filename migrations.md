@@ -24,7 +24,7 @@
 | ✓ | Database-repositories | ✓ | ✓ | ✓ |
 | ✓ | Digital cartography | ✓ | ✓ | ✓ |
 | ✓ | Digital diaspora | ✓ | No | ✓ |
-| ✓ | Digitalizacion-workflow | ✓ | No | No |
+| ✓ | Digitalizacion-workflow | ✓ | No | ✓ |
 | ✓ | Documentation-migration-ReadTheDocs  | ✓ | ✓  |✓ |
 | ✓ | Domestic-issues | ✓ | No | No |
 | _Created in GitHub_ | Dotfiles | ✓ | No | No |
