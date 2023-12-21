@@ -12,7 +12,7 @@
 | ✓ | Bibliographic-data-on-ios-device | ✓ | No | ✓ |
 | ✓ | Bibliographical-hybrid-mobile-app | ✓ | No | No |
 | ✓ | Bibliographical-database-migration | ✓ | ✓ | ✓ |
-| ✓ | Book Scanner | ✓ | No | No |
+| ✓ | Book Scanner | ✓ | No | ✓ |
 | ✓ | Branding | ✓ | No | No |
 | ✓ | Chapman documentary | ✓ | No | No |
 | ✓ | Conferences | ✓ | No | No |
@@ -30,6 +30,7 @@
 | _Created in GitHub_ | Dotfiles | ✓ | No | No |
 | ✓ | Experimental-inner-projects | ✓ | No | No |
 | ✓ | Firewall-settings-mac-environments | ✓ | No | ✓ |
+| ✓ | Focus-group-2016 | ✓ | ✓ | ✓ |
 | ✓ | General Scraper | ✓ | No | No |
 | ✓ | Github-transfers | ✓ | ✓ | ✓ |
 | ✓ | Good-practices-on-repository-creation | ✓ | No | No |
