@@ -26,7 +26,7 @@
 | ✓ | Digital diaspora | ✓ | No | ✓ |
 | ✓ | Digitalizacion-workflow | ✓ | No | ✓ |
 | ✓ | Documentation-migration-ReadTheDocs  | ✓ | ✓  |✓ |
-| ✓ | Domestic-issues | ✓ | No | No |
+| ✓ | Domestic-issues | ✓ | No | ✓ |
 | _Created in GitHub_ | Dotfiles | ✓ | No | No |
 | ✓ | Experimental-inner-projects | ✓ | No | No |
 | ✓ | Firewall-settings-mac-environments | ✓ | No | No |
